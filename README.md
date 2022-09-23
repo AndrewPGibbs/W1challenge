@@ -16,7 +16,7 @@ n/a
 ![alt text](https://github.com/AndrewPGibbs/W1challenge/blob/main/assets/images/screenshot.png?raw=true)
 
 
-Please visit the appropriate reository to view this project <a href=https://github.com/AndrewPGibbs/W1challenge>here</a>
+Please visit the appropriate repository to view this project <a href=https://github.com/AndrewPGibbs/W1challenge>here</a>
 
 
 ## Credits
