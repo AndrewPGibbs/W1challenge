@@ -12,11 +12,24 @@ n/a
 
 ## Usage
 
-Please visit the appropriate reository to view this project.
+ This is how the website should look when viewed.
+![alt text](https://github.com/AndrewPGibbs/W1challenge/blob/main/assets/images/screenshot.png?raw=true)
+
+
+Please visit the appropriate reository to view this project <a href=https://github.com/AndrewPGibbs/W1challenge>here</a>
+
 
 ## Credits
 
 <a href=https://github.com/AndrewPGibbs>Visit my Github<a>
+
+
+
+
+
+
+
+
 ## License
 
 MIT License
